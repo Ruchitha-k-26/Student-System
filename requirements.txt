@@ -1,0 +1,2 @@
+websockets- for client-server communication
+pstuils - to monitor memory usage
